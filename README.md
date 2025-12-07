@@ -1,21 +1,21 @@
 
-To get started with your project, you'll first need to install the dependencies with:
+install the dependencies with:
 
 ```
 npm install
 ```
 
-Then, you'll be able to run a development version of the project with:
+then:
 
 ```
 npm run dev
 ```
 
-After a few seconds, your project should be accessible at the address
+address
 [http://localhost:5173/](http://localhost:5173/)
 
 
-If you are satisfied with the result, you can finally build the project for release with:
+if liked:
 
 ```
 npm run build
