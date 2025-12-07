@@ -1,0 +1,1 @@
+export { WomenCategory } from "./WomenCategory";
