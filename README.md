@@ -15,7 +15,7 @@ address
 [http://localhost:5173/](http://localhost:5173/)       
  
 
-if liked:
+if liked: 
  
 ```
 npm run build
