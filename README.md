@@ -3,7 +3,7 @@ install the dependencies with:
  
        
 ```    
-npm install   
+npm install    
 ```
  
 then:
