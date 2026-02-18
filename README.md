@@ -6,7 +6,7 @@ install the dependencies with:
 npm install          
 ```        
     
-then:   
+then:    
   
 ```  
 npm run dev  
