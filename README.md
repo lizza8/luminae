@@ -4,7 +4,7 @@ install the dependencies with:
                   
 ```            
 npm install          
-```         
+```          
     
 then:     
   
