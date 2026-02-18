@@ -9,7 +9,7 @@ npm install
 then:    
   
 ```  
-npm run dev   
+npm run dev    
 ```        
  
 address      
